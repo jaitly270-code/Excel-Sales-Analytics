@@ -3,9 +3,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[customer performance report](https://github.com/jaitly270-code/Excel-Sales-Analytics/blob/main/Sales_Analysis%20for%20AtliQ%20Hardwares%20(Exccel%20Project).pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[(https://github.com/jaitly270-code/Excel-Sales-Analytics/blob/main/Sales_Analysis%20for%20AtliQ%20Hardwares%20(Exccel%20Project).pdf)]_
   
   **3.** Create a [Top 5 Countries according to net Sales Value]
 
