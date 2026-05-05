@@ -5,7 +5,7 @@
 
     **1.** Create a _[customer performance report](https://github.com/jaitly270-code/Excel-Sales-Analytics/blob/main/Sales_Analysis%20for%20AtliQ%20Hardwares%20(Exccel%20Project).pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[(https://github.com/jaitly270-code/Excel-Sales-Analytics/blob/main/Sales_Analysis%20for%20AtliQ%20Hardwares%20(Exccel%20Project).pdf)]_
+    **2.** Conduct a comprehensive comparison between _[Market Performance vs Sales Target][(https://github.com/jaitly270-code/Excel-Sales-Analytics/blob/main/Sales_Analysis%20for%20AtliQ%20Hardwares%20(Exccel%20Project).pdf)]_
   
   **3.** Create a [Top 5 Countries according to net Sales Value]
 
